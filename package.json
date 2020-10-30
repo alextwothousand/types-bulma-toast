@@ -1,0 +1,17 @@
+{
+  "name": "@types/bulma-toast",
+  "version": "1.0.0",
+  "description": "Bulma's pure JavaScript extension to display toasts - but just the types for it!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bulma",
+    "toast",
+    "bulma-toast",
+    "dts"
+  ],
+  "author": "alextwothousand",
+  "license": "ISC"
+}
