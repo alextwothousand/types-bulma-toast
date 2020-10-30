@@ -10,7 +10,10 @@
     "bulma",
     "toast",
     "bulma-toast",
-    "dts"
+    "dts",
+    "Bulma",
+    "extensions",
+    "bulma.io"
   ],
   "author": "alextwothousand",
   "license": "GNU GPLv2"
